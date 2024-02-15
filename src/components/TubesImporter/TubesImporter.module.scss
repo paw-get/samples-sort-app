@@ -1,0 +1,46 @@
+textarea.sampleData {
+  resize: none;
+  width: 500px;
+  height: 300px;
+  padding: 15px
+}
+
+textarea.inputData {
+  resize: none;
+  width: 500px;
+  height: 300px;
+  padding: 15px
+}
+
+.textareasContainer {
+  display: flex;
+  flex-direction: column;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+}
+
+.buttonsContainer {
+  max-width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 10px auto;
+
+  button {
+    margin: 0 5px
+  }
+}
+
+.error {
+  background: #e25b5b;
+  margin: 0 0 10px;
+  border-radius: 4px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: white;
+}
