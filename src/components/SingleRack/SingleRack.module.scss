@@ -1,0 +1,66 @@
+.rackNumber {
+  background: #00283b;
+  color: white;
+  margin: 28px 0 0;
+  text-align: center;
+  line-height: 42px;
+  height: 42px;
+  border-bottom: 1px solid white;
+  border-radius: 4px;
+}
+
+.singleRack {
+  border: 1px solid #00537c;
+  display: flex;
+  margin: 0 0 0;
+  overflow: hidden;
+  background: #aae3ff;
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+  font-weight: bold;
+
+
+  div {
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    border-right: 1px solid #fff;
+    flex-grow: 0;
+    flex-shrink: 0;
+    display: flex;
+    box-sizing: border-box;
+
+    &:last-child {
+      border-right: 0;
+    }
+
+    &.id {
+      width: 5%;
+    }
+
+    &.age {
+      width: 10%;
+    }
+
+    &.cityDistrict {
+      width: 30%;
+    }
+
+    &.company {
+      width: 30%;
+    }
+
+    &.vissionDefect {
+      width: 25%;
+      word-break: break-all;
+
+
+    }
+  }
+}
+
+.rackSection {
+  max-width: 900px;
+  width: auto;
+}

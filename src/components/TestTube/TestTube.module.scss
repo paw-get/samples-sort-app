@@ -1,0 +1,54 @@
+.testTube {
+  border: 1px solid #00537c;
+  border-width: 1px 1px 0 1px;
+  display: flex;
+  margin: 0;
+  overflow: hidden;
+
+  &:nth-child(2n) {
+    background: #ebf8ff
+  }
+
+  &:last-child {
+    border-width: 1px;
+  }
+
+
+  div {
+    padding: 5px;
+    border-right: 1px solid #00537c;
+    flex-grow: 0;
+    flex-shrink: 0;
+    display: flex;
+    box-sizing: border-box;
+    word-break: break-all;
+    align-items: center;
+
+    &:last-child {
+      border-right: 0;
+    }
+
+    &.id {
+      width: 5%;
+    }
+
+    &.age {
+      width: 10%;
+    }
+
+    &.cityDistrict {
+      width: 30%;
+    }
+
+    &.company {
+      width: 30%;
+    }
+
+    &.vissionDefect {
+      width: 25%;
+
+
+
+    }
+  }
+}

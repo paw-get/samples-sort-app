@@ -1,0 +1,13 @@
+.racksContainer {
+  display: flex;
+  width: auto;
+  flex-direction: column;
+  margin: 0 0 0 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 1px solid #aaa;
+  min-width: 900px;
+  border-radius: 4px;
+  text-align: center;
+  padding: 10px;
+}

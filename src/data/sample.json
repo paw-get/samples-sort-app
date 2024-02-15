@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "age": 25,
+    "company": "companyA",
+    "cityDistrict": "cityDistrictA",
+    "visionDefect": "vissionDefectA"
+  },
+  {
+    "id": 2,
+    "age": 30,
+    "company": "companyB",
+    "cityDistrict": "cityDistrictB",
+    "visionDefect": "vissionDefectB"
+  },
+  {
+    "id": 3,
+    "age": 35,
+    "company": "companyC",
+    "cityDistrict": "cityDistrictC",
+    "visionDefect": "vissionDefectC"
+  },
+  {
+    "id": 4,
+    "age": 40,
+    "company": "companyD",
+    "cityDistrict": "cityDistrictD",
+    "visionDefect": "vissionDefectD"
+  },
+  {
+    "id": 5,
+    "age": 40,
+    "company": "companyE",
+    "cityDistrict": "cityDistrictE",
+    "visionDefect": "vissionDefectE"
+  },
+  {
+    "id": 6,
+    "age": 45,
+    "company": "companyD",
+    "cityDistrict": "cityDistrictF",
+    "visionDefect": "vissionDefectH"
+  },
+  {
+    "id": 7,
+    "age": 45,
+    "company": "companyA",
+    "cityDistrict": "cityDistrictG",
+    "visionDefect": "vissionDefectF"
+  }
+]
