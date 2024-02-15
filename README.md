@@ -56,5 +56,6 @@ $ npm run test
 
 - Adding storage for previously created racks [e.g. redux]
 - Creating feature for two step imported data submittion
+- Sync with DB
 - Styling created components
 - Adding responsiveness
