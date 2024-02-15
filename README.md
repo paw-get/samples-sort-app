@@ -3,6 +3,7 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
+- [What's next?](#whats-next)
 
 ## General info
 
@@ -50,3 +51,10 @@ To run tests, use npm command:
 $ cd ../app_folder
 $ npm run test
 ```
+
+## What's next?
+
+- Adding storage for previously created racks [e.g. redux]
+- Creating feature for two step imported data submittion
+- Styling created components
+- Adding responsiveness
