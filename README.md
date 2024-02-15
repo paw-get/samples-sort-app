@@ -25,7 +25,7 @@ Project is created with:
 - React: 18.2.0
 - TypeScript: 5.2.2
 - Sass: 1.70.0
-- MUI (data-grid):
+- MUI (data-grid): 6.19.4
 - Vite: 5.1.0
 - Vitest: 0.34.6
 
