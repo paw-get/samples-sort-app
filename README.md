@@ -31,7 +31,13 @@ Project is created with:
 
 ## Setup
 
-To run this project, install it locally using npm:
+Clone project repository using git:
+
+```
+$ git clone git@github.com:paw-get/samples-sort-app.git
+```
+
+To run this project, run npm command (it will install all dependencies and run app):
 
 ```
 $ cd ../app_folder
