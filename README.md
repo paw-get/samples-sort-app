@@ -41,14 +41,14 @@ $ git clone git@github.com:paw-get/samples-sort-app.git
 To run this project, run npm command (it will install all dependencies and run app):
 
 ```
-$ cd ../app_folder
+$ cd ../samples-sort-app
 $ npm run dev
 ```
 
 To run tests, use npm command:
 
 ```
-$ cd ../app_folder
+$ cd ../samples-sort-app
 $ npm run test
 ```
 
